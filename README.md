@@ -1,4 +1,4 @@
-# Bhumi
+# Boom
 This is my first Git Repository (〃ー〃)
 <br>
 ....
@@ -9,6 +9,6 @@ What is not You - I'm not a genius.
  <br>
  Life is not always by my side. If I don't work hard, I'll lose the game. There is nothing special.
  <br>
-Whatever I've day-dreamed of was a lie. It was just a dream. 
+Whatever I've day-dreamed of was a lie. It was just a dream!
 <br>
-The reality is same as what you've left before.
+The reality is same as what you've left before!
