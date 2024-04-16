@@ -12,5 +12,6 @@ Whatever I've day-dreamed of was a lie. It was just a dream!
 <br>
 The reality is same as what you've left before!
 <br>You ready?
-<button>Yes</button>
-<button>No</button>
+<br>
+<button> Yes </button>
+<button> No </button>
