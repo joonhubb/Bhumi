@@ -1,8 +1,8 @@
 # Boom
-<h1>This is my first Git Repository (〃ー〃) </h1>
+<h2>This is my first Git Repository (〃ー〃) </h2>
 <br>....
 <br>
-<h2>What is not You</h2> I'm not a genius.
+<h4>What is not You</h4> I'm not a genius.
 <br>
  I'm not special nor exceptional.
  <br>
