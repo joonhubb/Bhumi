@@ -3,7 +3,7 @@
 <br>
 ....
 <br>
-<h2>What is not You</h2> - I'm not a genius.
+<h2>What is not You</h2> I'm not a genius.
 <br>
  I'm not special nor exceptional.
  <br>
