@@ -1,9 +1,9 @@
 # Boom
-This is my first Git Repository (〃ー〃)
+<h1>This is my first Git Repository (〃ー〃) </h1>
 <br>
 ....
 <br>
-What is not You - I'm not a genius.
+<h2>What is not You</h2> - I'm not a genius.
 <br>
  I'm not special nor exceptional.
  <br>
