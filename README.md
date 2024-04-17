@@ -16,5 +16,4 @@ The reality is same as what you've left before!
 <button> Yes </button>
 <button> No </button>
 <br> <a href="https://youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ">Click here</a>
-<br><img src=file:///C:/Users/DHRITIKA%20MISRA/Downloads/BBB.webp'' alt=BTS'' width=640'' height=480''> 
-
+<br> <a href= "https://economictimes.indiatimes.com/magazines/panache/bts-members-to-enlist-in-military-by-end-of-2023-armys-get-emotional-on-twitter/articleshow/101111368.cms?from=mdr">BTS MILITARY JOINING~</a>
