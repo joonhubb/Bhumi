@@ -16,3 +16,5 @@ The reality is same as what you've left before!
 <button> Yes </button>
 <button> No </button>
 <br> <a href="https://youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ">Click here</a>
+<br><img src=img_girl.jpg'' alt=Girl in a jacket'' width=500'' height=600''> 
+
