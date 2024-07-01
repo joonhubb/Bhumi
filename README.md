@@ -2,7 +2,6 @@
 <html>
   <head>
     body {
-# Boom
       background-image:-webkin-linear-gradient(left,white,#DAD8C9,#9A9498);
         font-size:40pt
     }
