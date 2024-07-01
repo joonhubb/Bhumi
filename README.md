@@ -4,16 +4,14 @@
 <br>
 <h4>What is not You</h4> I'm not a genius.
 <br>
- I'm not special nor exceptional.
- <br>
- Life is not always by my side. If I don't work hard, I'll lose the game. There is nothing special.
- <br>
-Whatever I've day-dreamed of was a lie. It was just a dream!
-<br>
-The reality is same as what you've left before!
+I'm not a genius.
+I'm neither special nor exceptional.
+Life doesn't always favor me. If I don't put in the effort, I'll fail. There is nothing extraordinary.
+All my daydreams were false. They were mere illusions!
+The reality remains unchanged from what you've experienced before!
 <br>You ready?
 <br>
-<button> Yes </button>
-<button> No </button>
+<button>Yes</button>
+<button>No</button>
 <br> <a href="https://youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ">Click here</a>
 <br> <a href= "https://economictimes.indiatimes.com/magazines/panache/bts-members-to-enlist-in-military-by-end-of-2023-armys-get-emotional-on-twitter/articleshow/101111368.cms?from=mdr">BTS MILITARY JOINING~</a>
