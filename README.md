@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="style.css" rel="stylesheet" type="text/css"/>
     <style>
     body {
       background-image:-webkin-linear-gradient(left,white,#DAD8C9,#9A9498);
