@@ -3,6 +3,8 @@
   <head>
     <body> 
 # Boom
+      <background-image:-webkin-linear-gradient(left,white,#DAD8C9,#9A9498);
+        font-size:40pt>
 <h2>This is my first Git Repository (〃ー〃) </h2>
 <br>....
 <br>
