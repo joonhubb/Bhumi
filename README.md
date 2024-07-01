@@ -4,13 +4,11 @@
 <br>
 <h4>What is not You</h4> I'm not a genius.
 <br>
-I'm not a genius.
 I'm neither special nor exceptional.
 Life doesn't always favor me. If I don't put in the effort, I'll fail. There is nothing extraordinary.
 All my daydreams were false. They were mere illusions!
 The reality remains unchanged from what you've experienced before!
-<br>You ready?
-<br>
+<br>You ready?<br>
 <button>Yes</button>
 <button>No</button>
 <br> <a href="https://youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ">Click here</a>
